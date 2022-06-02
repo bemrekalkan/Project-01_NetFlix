@@ -3,6 +3,8 @@
 
 # Project-01 : NETFLIX
 
+## GO TO <img src="https://res.cloudinary.com/crunchbase-production/image/upload/sdkllq7oj1zk57zqlzld"/> ➡ <a href="https://01netflix.netlify.app/<a>
+
 ## Description
 
 Project aims to create survey form within html and css.
