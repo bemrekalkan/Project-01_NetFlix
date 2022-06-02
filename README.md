@@ -5,7 +5,7 @@
 
 ## GO TO NETLIFY ➡ https://01netflix.netlify.app
 
-! [Check out the web site 👀 ] (./images/Project-01-Netflix.gif)
+<p><img align="center" alt="gif" src="./images/Project-01-Netflix.gif" width="500" height="320" /></p>
 
 ## Description
 
