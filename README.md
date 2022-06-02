@@ -3,7 +3,7 @@
 
 # Project-01 : NETFLIX
 
-## GO TO <img src="https://res.cloudinary.com/crunchbase-production/image/upload/sdkllq7oj1zk57zqlzld"/> ➡ <a href="https://01netflix.netlify.app/<a>
+## GO TO NETLIFY ➡ https://01netflix.netlify.app
 
 ## Description
 
