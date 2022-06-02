@@ -5,6 +5,8 @@
 
 ## GO TO NETLIFY ➡ https://01netflix.netlify.app
 
+! [Alt text](./images/Project-01-Netflix.gif)
+
 ## Description
 
 Project aims to create survey form within html and css.
